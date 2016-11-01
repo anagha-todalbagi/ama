@@ -4,7 +4,7 @@
 
 Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
-I can also be reached on [Twitter](https://twitter.com/benmvp) and [email](mailto:ben+ama@benmvp.com), but [asking here](https://github.com/benmvp/ama/issues/new) means anyone can read the answer!
+I can also be reached on [Twitter](https://twitter.com/benmvp) and [email](mailto:ben@benmvp.com), but [asking here](https://github.com/benmvp/ama/issues/new) means anyone can read the answer!
 
 ### Guidelines
 
